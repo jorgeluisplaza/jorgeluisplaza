@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Falabella<br>👯 I’m looking to collaborate with others devs<br>🌱 I’m currently learning web development as fullstack
+🔭 I’m currently working on Falabella<br>👯 I’m a software engineer as a fullstack
 
 
 ## 🌐 Socials:
